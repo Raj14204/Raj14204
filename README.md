@@ -32,6 +32,11 @@ Motivated and adaptable **web developer** with hands-on experience in **full-sta
 
 ---
 
+## 📊 Contribution Graph (All-Time)
+[![Raj14204's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Raj14204&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ## 📂 Featured Projects  
 
 - **[LadyEngland Website](#)**  
