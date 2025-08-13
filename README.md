@@ -29,12 +29,6 @@ Motivated and adaptable **web developer** with hands-on experience in **full-sta
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
 
-
----
-
-## 📊 Contribution Graph (All-Time)
-[![Raj14204's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Raj14204&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
 
 ## 📂 Featured Projects  
@@ -61,3 +55,9 @@ Motivated and adaptable **web developer** with hands-on experience in **full-sta
 
 
 ✨ _"Code. Learn. Improve. Repeat."_  
+
+---
+
+## 📊 Contribution Graph (All-Time)
+[![Raj14204's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Raj14204&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
