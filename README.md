@@ -33,18 +33,18 @@ Motivated and adaptable **web developer** with hands-on experience in **full-sta
 
 ## 📂 Featured Projects  
 
-- **[LadyEngland Website](#)**  
+- **[LadyEngland Website](https://raj14204.github.io/Portfolio/projects.html)**  
   Full-stack e-commerce project built with  
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)  
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)  
 
-- **[MilkyWay Mobile App API Backend](#)**  
+- **[MilkyWay Mobile App API Backend](https://raj14204.github.io/Portfolio/projects.html)**  
   Laravel RESTful API backend with  
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)  
 
-- **[Hangman Game](#)**  
+- **[Hangman Game](https://raj14204.github.io/Portfolio/projects.html)**  
   Python-based word guessing game  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ---
